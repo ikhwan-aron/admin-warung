@@ -1,2 +1,2 @@
 # admin-warung
-aplikasi web CRUD sederhana.  
+aplikasi web CRUD sederhana menggunakan html, css, javascript, dan php
